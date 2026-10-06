@@ -1,0 +1,11 @@
+wine_id,wine_name,varietal,vintage,wine_type,bottle_price
+1,Estate Cabernet Sauvignon,Cabernet Sauvignon,2022,Red,58.0
+2,Reserve Pinot Noir,Pinot Noir,2022,Red,52.0
+3,Estate Chardonnay,Chardonnay,2023,White,38.0
+4,Rosé of Grenache,Grenache,2024,Rosé,32.0
+5,Syrah Reserve,Syrah,2022,Red,48.0
+6,Sauvignon Blanc,Sauvignon Blanc,2024,White,34.0
+7,Grenache Reserve,Grenache,2022,Red,46.0
+8,Sparkling Brut,Chardonnay Blend,2023,Sparkling,44.0
+9,Viognier,Viognier,2023,White,36.0
+10,Library Cabernet Sauvignon,Cabernet Sauvignon,2020,Red,72.0

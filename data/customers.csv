@@ -1,0 +1,181 @@
+customer_id,first_name,last_name,email,city,state,age_group
+1,Emma,Garcia,emma.garcia1@example.com,Irvine,CA,30-39
+2,Olivia,Hernandez,olivia.hernandez2@example.com,Pasadena,CA,60+
+3,Sofia,Hall,sofia.hall3@example.com,Santa Barbara,CA,21-29
+4,Camila,Anderson,camila.anderson4@example.com,San Diego,CA,21-29
+5,Camila,Young,camila.young5@example.com,Santa Barbara,CA,30-39
+6,Mateo,Garcia,mateo.garcia6@example.com,Irvine,CA,21-29
+7,Elena,Rivera,elena.rivera7@example.com,Long Beach,CA,30-39
+8,Ethan,Hernandez,ethan.hernandez8@example.com,Los Angeles,CA,21-29
+9,Lucas,Allen,lucas.allen9@example.com,Long Beach,CA,21-29
+10,Grace,Young,grace.young10@example.com,Los Angeles,CA,60+
+11,Sofia,Young,sofia.young11@example.com,Long Beach,CA,40-49
+12,Lucas,Hall,lucas.hall12@example.com,Los Angeles,CA,21-29
+13,Luna,Moore,luna.moore13@example.com,Las Vegas,NV,50-59
+14,Emma,Nguyen,emma.nguyen14@example.com,Long Beach,CA,40-49
+15,Lucas,Brown,lucas.brown15@example.com,Santa Barbara,CA,30-39
+16,Mateo,Lopez,mateo.lopez16@example.com,Pasadena,CA,21-29
+17,Luna,Brown,luna.brown17@example.com,Santa Barbara,CA,30-39
+18,Diego,Anderson,diego.anderson18@example.com,Pasadena,CA,50-59
+19,Mia,Anderson,mia.anderson19@example.com,Ventura,CA,50-59
+20,Daniel,Thomas,daniel.thomas20@example.com,Los Angeles,CA,60+
+21,Maya,Rivera,maya.rivera21@example.com,Long Beach,CA,40-49
+22,Grace,Wilson,grace.wilson22@example.com,Long Beach,CA,30-39
+23,Diego,Young,diego.young23@example.com,Long Beach,CA,40-49
+24,Maya,Nguyen,maya.nguyen24@example.com,Santa Barbara,CA,60+
+25,Olivia,Lewis,olivia.lewis25@example.com,San Diego,CA,50-59
+26,Emma,Wilson,emma.wilson26@example.com,Pasadena,CA,50-59
+27,Elena,Allen,elena.allen27@example.com,Los Angeles,CA,30-39
+28,Grace,Lewis,grace.lewis28@example.com,Long Beach,CA,40-49
+29,Ava,Hernandez,ava.hernandez29@example.com,Pasadena,CA,40-49
+30,Mateo,Rivera,mateo.rivera30@example.com,Los Angeles,CA,30-39
+31,Grace,Garcia,grace.garcia31@example.com,Phoenix,AZ,50-59
+32,Mateo,Lewis,mateo.lewis32@example.com,Irvine,CA,40-49
+33,Emma,Moore,emma.moore33@example.com,Ventura,CA,40-49
+34,Camila,Wilson,camila.wilson34@example.com,Santa Barbara,CA,21-29
+35,Gabriel,Garcia,gabriel.garcia35@example.com,San Diego,CA,40-49
+36,Emma,Torres,emma.torres36@example.com,San Luis Obispo,CA,50-59
+37,Noah,Anderson,noah.anderson37@example.com,Los Angeles,CA,50-59
+38,Sofia,Lopez,sofia.lopez38@example.com,Irvine,CA,50-59
+39,Diego,Wilson,diego.wilson39@example.com,Los Angeles,CA,40-49
+40,Diego,Brown,diego.brown40@example.com,Long Beach,CA,50-59
+41,Elena,Taylor,elena.taylor41@example.com,Phoenix,AZ,50-59
+42,Camila,Moore,camila.moore42@example.com,Santa Barbara,CA,40-49
+43,Lucas,Patel,lucas.patel43@example.com,San Luis Obispo,CA,30-39
+44,Luna,Anderson,luna.anderson44@example.com,Los Angeles,CA,21-29
+45,Diego,Anderson,diego.anderson45@example.com,San Diego,CA,21-29
+46,Mia,Anderson,mia.anderson46@example.com,Los Angeles,CA,21-29
+47,Ethan,Lopez,ethan.lopez47@example.com,San Diego,CA,30-39
+48,Natalie,Taylor,natalie.taylor48@example.com,San Diego,CA,50-59
+49,Maya,Hall,maya.hall49@example.com,Santa Barbara,CA,50-59
+50,Elena,Taylor,elena.taylor50@example.com,Los Angeles,CA,40-49
+51,Lucas,Kim,lucas.kim51@example.com,Santa Barbara,CA,50-59
+52,Mia,Hernandez,mia.hernandez52@example.com,Los Angeles,CA,50-59
+53,Emma,Anderson,emma.anderson53@example.com,Los Angeles,CA,40-49
+54,Olivia,Kim,olivia.kim54@example.com,Los Angeles,CA,40-49
+55,Sofia,Patel,sofia.patel55@example.com,Ventura,CA,50-59
+56,Emma,Martinez,emma.martinez56@example.com,Pasadena,CA,40-49
+57,Ava,Lopez,ava.lopez57@example.com,Phoenix,AZ,50-59
+58,Isabella,Kim,isabella.kim58@example.com,Santa Barbara,CA,30-39
+59,Daniel,Martinez,daniel.martinez59@example.com,Los Angeles,CA,21-29
+60,Daniel,Thomas,daniel.thomas60@example.com,Phoenix,AZ,50-59
+61,Noah,Kim,noah.kim61@example.com,Irvine,CA,50-59
+62,Diego,Clark,diego.clark62@example.com,Los Angeles,CA,30-39
+63,Mia,Hall,mia.hall63@example.com,Irvine,CA,21-29
+64,Ethan,Martinez,ethan.martinez64@example.com,Los Angeles,CA,40-49
+65,Gabriel,Brown,gabriel.brown65@example.com,Los Angeles,CA,40-49
+66,Isabella,Lopez,isabella.lopez66@example.com,San Diego,CA,40-49
+67,Luna,Nguyen,luna.nguyen67@example.com,Los Angeles,CA,60+
+68,Luna,Hall,luna.hall68@example.com,San Diego,CA,40-49
+69,Elena,Hall,elena.hall69@example.com,San Diego,CA,30-39
+70,Mateo,Taylor,mateo.taylor70@example.com,Pasadena,CA,30-39
+71,Mateo,Nguyen,mateo.nguyen71@example.com,Los Angeles,CA,40-49
+72,Grace,Rivera,grace.rivera72@example.com,Phoenix,AZ,60+
+73,Ava,Patel,ava.patel73@example.com,Pasadena,CA,40-49
+74,Emma,Lopez,emma.lopez74@example.com,San Diego,CA,40-49
+75,Olivia,Torres,olivia.torres75@example.com,San Luis Obispo,CA,50-59
+76,Lucas,Moore,lucas.moore76@example.com,Los Angeles,CA,50-59
+77,Noah,Allen,noah.allen77@example.com,Las Vegas,NV,50-59
+78,Gabriel,Garcia,gabriel.garcia78@example.com,Pasadena,CA,40-49
+79,Emma,Wilson,emma.wilson79@example.com,Long Beach,CA,60+
+80,Diego,Wilson,diego.wilson80@example.com,Long Beach,CA,40-49
+81,Ethan,Taylor,ethan.taylor81@example.com,Pasadena,CA,50-59
+82,Gabriel,Clark,gabriel.clark82@example.com,Long Beach,CA,60+
+83,Mia,Lopez,mia.lopez83@example.com,Pasadena,CA,50-59
+84,Mia,Garcia,mia.garcia84@example.com,Santa Barbara,CA,21-29
+85,Mateo,Brown,mateo.brown85@example.com,Irvine,CA,40-49
+86,Elena,Young,elena.young86@example.com,Los Angeles,CA,21-29
+87,Olivia,Young,olivia.young87@example.com,Los Angeles,CA,30-39
+88,Diego,Wilson,diego.wilson88@example.com,Santa Barbara,CA,21-29
+89,Lucas,Martinez,lucas.martinez89@example.com,San Luis Obispo,CA,30-39
+90,Luna,Hernandez,luna.hernandez90@example.com,Santa Barbara,CA,40-49
+91,Elena,Allen,elena.allen91@example.com,Irvine,CA,60+
+92,Luna,Brown,luna.brown92@example.com,Las Vegas,NV,50-59
+93,Elena,Garcia,elena.garcia93@example.com,Los Angeles,CA,60+
+94,Elena,Anderson,elena.anderson94@example.com,Long Beach,CA,50-59
+95,Emma,Nguyen,emma.nguyen95@example.com,San Luis Obispo,CA,50-59
+96,Luna,Taylor,luna.taylor96@example.com,Ventura,CA,40-49
+97,Noah,Anderson,noah.anderson97@example.com,Long Beach,CA,40-49
+98,Daniel,Rivera,daniel.rivera98@example.com,Long Beach,CA,21-29
+99,Mateo,Torres,mateo.torres99@example.com,Pasadena,CA,30-39
+100,Diego,Rivera,diego.rivera100@example.com,Phoenix,AZ,21-29
+101,Mateo,Brown,mateo.brown101@example.com,San Diego,CA,60+
+102,Mia,Hernandez,mia.hernandez102@example.com,San Diego,CA,30-39
+103,Ethan,Kim,ethan.kim103@example.com,Pasadena,CA,40-49
+104,Daniel,Hall,daniel.hall104@example.com,Los Angeles,CA,21-29
+105,Elena,Garcia,elena.garcia105@example.com,San Diego,CA,50-59
+106,Camila,Torres,camila.torres106@example.com,Santa Barbara,CA,60+
+107,Ethan,Allen,ethan.allen107@example.com,Long Beach,CA,50-59
+108,Noah,Lewis,noah.lewis108@example.com,Long Beach,CA,30-39
+109,Daniel,Moore,daniel.moore109@example.com,San Diego,CA,30-39
+110,Daniel,Brown,daniel.brown110@example.com,Pasadena,CA,30-39
+111,Diego,Garcia,diego.garcia111@example.com,Long Beach,CA,30-39
+112,Maya,Allen,maya.allen112@example.com,Pasadena,CA,40-49
+113,Grace,Taylor,grace.taylor113@example.com,San Diego,CA,50-59
+114,Isabella,Lopez,isabella.lopez114@example.com,Long Beach,CA,40-49
+115,Chloe,Rivera,chloe.rivera115@example.com,Los Angeles,CA,60+
+116,Luna,Moore,luna.moore116@example.com,Long Beach,CA,30-39
+117,Ava,Martinez,ava.martinez117@example.com,Long Beach,CA,40-49
+118,Sofia,Patel,sofia.patel118@example.com,Santa Barbara,CA,40-49
+119,Camila,Nguyen,camila.nguyen119@example.com,San Diego,CA,30-39
+120,Ava,Hernandez,ava.hernandez120@example.com,Ventura,CA,30-39
+121,Gabriel,Patel,gabriel.patel121@example.com,Los Angeles,CA,30-39
+122,Emma,Patel,emma.patel122@example.com,Los Angeles,CA,40-49
+123,Gabriel,Young,gabriel.young123@example.com,San Diego,CA,60+
+124,Grace,Allen,grace.allen124@example.com,Ventura,CA,60+
+125,Elena,Young,elena.young125@example.com,Santa Barbara,CA,21-29
+126,Natalie,Patel,natalie.patel126@example.com,Long Beach,CA,30-39
+127,Mateo,Lewis,mateo.lewis127@example.com,Santa Barbara,CA,30-39
+128,Grace,Lopez,grace.lopez128@example.com,Irvine,CA,30-39
+129,Ethan,Rivera,ethan.rivera129@example.com,San Luis Obispo,CA,21-29
+130,Olivia,Anderson,olivia.anderson130@example.com,Santa Barbara,CA,21-29
+131,Camila,Lopez,camila.lopez131@example.com,Santa Barbara,CA,30-39
+132,Grace,Kim,grace.kim132@example.com,Los Angeles,CA,50-59
+133,Daniel,Hall,daniel.hall133@example.com,Phoenix,AZ,21-29
+134,Maya,Nguyen,maya.nguyen134@example.com,Santa Barbara,CA,60+
+135,Noah,Nguyen,noah.nguyen135@example.com,Ventura,CA,60+
+136,Elena,Young,elena.young136@example.com,Irvine,CA,40-49
+137,Chloe,Anderson,chloe.anderson137@example.com,Santa Barbara,CA,30-39
+138,Natalie,Garcia,natalie.garcia138@example.com,Santa Barbara,CA,40-49
+139,Daniel,Brown,daniel.brown139@example.com,Ventura,CA,60+
+140,Chloe,Young,chloe.young140@example.com,Los Angeles,CA,30-39
+141,Maya,Garcia,maya.garcia141@example.com,Los Angeles,CA,30-39
+142,Grace,Brown,grace.brown142@example.com,Los Angeles,CA,30-39
+143,Camila,Patel,camila.patel143@example.com,Long Beach,CA,50-59
+144,Daniel,Thomas,daniel.thomas144@example.com,Irvine,CA,50-59
+145,Mateo,Lopez,mateo.lopez145@example.com,Santa Barbara,CA,50-59
+146,Mia,Torres,mia.torres146@example.com,Long Beach,CA,21-29
+147,Mia,Garcia,mia.garcia147@example.com,Phoenix,AZ,30-39
+148,Ava,Allen,ava.allen148@example.com,Los Angeles,CA,21-29
+149,Emma,Hall,emma.hall149@example.com,Phoenix,AZ,40-49
+150,Mateo,Torres,mateo.torres150@example.com,Los Angeles,CA,40-49
+151,Emma,Brown,emma.brown151@example.com,Phoenix,AZ,21-29
+152,Ava,Moore,ava.moore152@example.com,San Diego,CA,60+
+153,Daniel,Nguyen,daniel.nguyen153@example.com,Phoenix,AZ,30-39
+154,Maya,Anderson,maya.anderson154@example.com,Los Angeles,CA,50-59
+155,Chloe,Hernandez,chloe.hernandez155@example.com,Ventura,CA,40-49
+156,Mia,Torres,mia.torres156@example.com,San Diego,CA,40-49
+157,Sofia,Lewis,sofia.lewis157@example.com,Pasadena,CA,21-29
+158,Elena,Clark,elena.clark158@example.com,Los Angeles,CA,60+
+159,Grace,Wilson,grace.wilson159@example.com,Santa Barbara,CA,50-59
+160,Mateo,Allen,mateo.allen160@example.com,Ventura,CA,40-49
+161,Natalie,Patel,natalie.patel161@example.com,Santa Barbara,CA,50-59
+162,Mateo,Rivera,mateo.rivera162@example.com,Ventura,CA,50-59
+163,Sofia,Thomas,sofia.thomas163@example.com,San Luis Obispo,CA,30-39
+164,Grace,Hall,grace.hall164@example.com,Pasadena,CA,30-39
+165,Ava,Clark,ava.clark165@example.com,Ventura,CA,30-39
+166,Camila,Torres,camila.torres166@example.com,Ventura,CA,30-39
+167,Chloe,Thomas,chloe.thomas167@example.com,San Diego,CA,40-49
+168,Camila,Lopez,camila.lopez168@example.com,Long Beach,CA,30-39
+169,Diego,Anderson,diego.anderson169@example.com,Irvine,CA,40-49
+170,Natalie,Patel,natalie.patel170@example.com,Ventura,CA,21-29
+171,Luna,Nguyen,luna.nguyen171@example.com,Irvine,CA,30-39
+172,Maya,Torres,maya.torres172@example.com,Santa Barbara,CA,40-49
+173,Elena,Young,elena.young173@example.com,Long Beach,CA,50-59
+174,Mateo,Moore,mateo.moore174@example.com,Long Beach,CA,21-29
+175,Camila,Rivera,camila.rivera175@example.com,Los Angeles,CA,40-49
+176,Isabella,Taylor,isabella.taylor176@example.com,Long Beach,CA,40-49
+177,Maya,Lewis,maya.lewis177@example.com,San Diego,CA,60+
+178,Camila,Moore,camila.moore178@example.com,Long Beach,CA,21-29
+179,Ava,Young,ava.young179@example.com,Los Angeles,CA,21-29
+180,Mia,Young,mia.young180@example.com,Long Beach,CA,60+

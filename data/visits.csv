@@ -1,0 +1,353 @@
+visit_id,customer_id,visit_date,party_size,tasting_type,reservation_type
+1,1,2025-01-07,2,Classic Tasting,Reservation
+2,1,2025-02-22,2,Reserve Tasting,Reservation
+3,2,2025-04-26,5,Classic Tasting,Reservation
+4,2,2025-07-14,3,Classic Tasting,Reservation
+5,3,2025-05-25,2,Classic Tasting,Reservation
+6,4,2025-02-06,3,Classic Tasting,Walk-in
+7,5,2025-01-21,2,Reserve Tasting,Reservation
+8,5,2025-06-15,2,Reserve Tasting,Reservation
+9,6,2025-01-19,2,Classic Tasting,Reservation
+10,7,2025-01-27,5,Classic Tasting,Reservation
+11,7,2025-04-15,1,Reserve Tasting,Reservation
+12,8,2025-03-20,5,Reserve Tasting,Reservation
+13,9,2025-02-05,4,Classic Tasting,Reservation
+14,9,2025-05-22,2,Classic Tasting,Walk-in
+15,9,2025-06-24,6,Reserve Tasting,Reservation
+16,10,2025-01-08,4,Reserve Tasting,Reservation
+17,10,2025-02-21,2,Reserve Tasting,Walk-in
+18,10,2025-06-19,5,Reserve Tasting,Walk-in
+19,10,2025-08-14,6,Classic Tasting,Reservation
+20,10,2025-08-22,3,Classic Tasting,Reservation
+21,11,2025-03-15,4,Reserve Tasting,Reservation
+22,11,2025-04-29,4,Classic Tasting,Reservation
+23,12,2025-02-24,2,Classic Tasting,Reservation
+24,13,2025-01-26,4,Estate Tour + Tasting,Walk-in
+25,13,2025-09-12,5,Estate Tour + Tasting,Reservation
+26,14,2025-06-01,3,Classic Tasting,Reservation
+27,15,2025-04-26,4,Wine Club Tasting,Walk-in
+28,16,2025-02-25,5,Classic Tasting,Reservation
+29,16,2025-07-10,2,Classic Tasting,Reservation
+30,17,2025-03-21,4,Reserve Tasting,Walk-in
+31,17,2025-08-01,2,Reserve Tasting,Walk-in
+32,17,2025-08-03,2,Estate Tour + Tasting,Reservation
+33,17,2025-10-04,2,Reserve Tasting,Walk-in
+34,18,2025-02-26,2,Estate Tour + Tasting,Reservation
+35,19,2025-02-02,2,Estate Tour + Tasting,Reservation
+36,19,2025-02-28,4,Classic Tasting,Reservation
+37,20,2025-05-31,2,Classic Tasting,Reservation
+38,20,2025-07-15,2,Classic Tasting,Reservation
+39,21,2025-02-13,4,Classic Tasting,Walk-in
+40,22,2025-01-27,2,Wine Club Tasting,Reservation
+41,23,2025-02-28,4,Estate Tour + Tasting,Reservation
+42,24,2025-01-04,4,Classic Tasting,Reservation
+43,24,2025-06-08,2,Estate Tour + Tasting,Walk-in
+44,25,2025-02-13,4,Estate Tour + Tasting,Reservation
+45,26,2025-08-06,2,Reserve Tasting,Reservation
+46,27,2025-09-07,6,Classic Tasting,Reservation
+47,27,2025-09-27,4,Classic Tasting,Walk-in
+48,28,2025-03-08,4,Classic Tasting,Reservation
+49,28,2025-03-31,3,Estate Tour + Tasting,Reservation
+50,28,2025-07-14,5,Estate Tour + Tasting,Reservation
+51,29,2025-02-10,4,Estate Tour + Tasting,Reservation
+52,29,2025-06-08,2,Reserve Tasting,Reservation
+53,30,2025-02-08,3,Classic Tasting,Walk-in
+54,31,2025-01-29,3,Classic Tasting,Reservation
+55,32,2025-02-09,4,Estate Tour + Tasting,Walk-in
+56,33,2025-06-14,2,Classic Tasting,Reservation
+57,33,2025-09-01,3,Reserve Tasting,Walk-in
+58,34,2025-02-03,2,Classic Tasting,Reservation
+59,34,2025-06-21,4,Classic Tasting,Reservation
+60,35,2025-02-13,2,Reserve Tasting,Reservation
+61,35,2025-06-08,2,Wine Club Tasting,Reservation
+62,36,2025-02-21,1,Estate Tour + Tasting,Walk-in
+63,37,2025-01-23,2,Reserve Tasting,Reservation
+64,37,2025-03-26,6,Estate Tour + Tasting,Reservation
+65,37,2025-07-06,4,Classic Tasting,Reservation
+66,38,2025-03-17,4,Classic Tasting,Walk-in
+67,38,2025-05-20,4,Classic Tasting,Reservation
+68,38,2025-08-12,2,Estate Tour + Tasting,Reservation
+69,39,2025-08-05,2,Classic Tasting,Reservation
+70,40,2025-02-02,3,Classic Tasting,Walk-in
+71,41,2025-03-15,3,Classic Tasting,Reservation
+72,41,2025-05-04,2,Reserve Tasting,Reservation
+73,42,2025-01-09,4,Classic Tasting,Walk-in
+74,43,2025-08-26,4,Classic Tasting,Reservation
+75,43,2025-09-03,4,Classic Tasting,Reservation
+76,43,2025-11-20,4,Estate Tour + Tasting,Reservation
+77,44,2025-05-17,2,Estate Tour + Tasting,Walk-in
+78,44,2025-07-08,2,Classic Tasting,Reservation
+79,45,2025-02-08,6,Estate Tour + Tasting,Reservation
+80,45,2025-07-06,1,Reserve Tasting,Walk-in
+81,45,2025-07-27,2,Estate Tour + Tasting,Reservation
+82,45,2025-09-20,2,Reserve Tasting,Reservation
+83,46,2025-07-18,4,Classic Tasting,Walk-in
+84,47,2025-02-14,3,Reserve Tasting,Reservation
+85,47,2025-06-13,4,Wine Club Tasting,Reservation
+86,48,2025-01-14,4,Reserve Tasting,Reservation
+87,49,2025-07-29,4,Classic Tasting,Walk-in
+88,49,2025-07-30,3,Estate Tour + Tasting,Walk-in
+89,50,2025-02-10,4,Classic Tasting,Reservation
+90,50,2025-04-11,3,Reserve Tasting,Reservation
+91,50,2025-05-09,2,Reserve Tasting,Walk-in
+92,50,2025-05-26,2,Reserve Tasting,Reservation
+93,51,2025-03-15,4,Classic Tasting,Reservation
+94,51,2025-04-15,5,Classic Tasting,Walk-in
+95,52,2025-01-12,2,Reserve Tasting,Walk-in
+96,53,2025-01-05,5,Estate Tour + Tasting,Reservation
+97,53,2025-05-27,3,Classic Tasting,Reservation
+98,53,2025-08-29,4,Classic Tasting,Walk-in
+99,54,2025-01-20,3,Classic Tasting,Reservation
+100,54,2025-01-21,4,Classic Tasting,Walk-in
+101,55,2025-01-09,2,Classic Tasting,Reservation
+102,55,2025-06-19,3,Reserve Tasting,Walk-in
+103,56,2025-03-17,4,Classic Tasting,Reservation
+104,56,2025-07-14,2,Classic Tasting,Reservation
+105,57,2025-03-12,3,Reserve Tasting,Walk-in
+106,58,2025-04-09,6,Classic Tasting,Reservation
+107,58,2025-05-07,1,Estate Tour + Tasting,Reservation
+108,59,2025-01-26,4,Reserve Tasting,Reservation
+109,59,2025-05-03,2,Classic Tasting,Reservation
+110,60,2025-09-01,2,Reserve Tasting,Walk-in
+111,61,2025-01-20,6,Estate Tour + Tasting,Reservation
+112,62,2025-03-10,2,Reserve Tasting,Reservation
+113,62,2025-09-10,2,Classic Tasting,Reservation
+114,63,2025-02-14,3,Classic Tasting,Walk-in
+115,63,2025-06-17,2,Reserve Tasting,Reservation
+116,64,2025-07-11,4,Wine Club Tasting,Walk-in
+117,64,2025-08-01,5,Classic Tasting,Walk-in
+118,64,2025-10-09,3,Reserve Tasting,Reservation
+119,65,2025-06-07,4,Reserve Tasting,Reservation
+120,65,2025-08-25,2,Wine Club Tasting,Walk-in
+121,66,2025-02-11,5,Estate Tour + Tasting,Reservation
+122,66,2025-07-12,2,Wine Club Tasting,Reservation
+123,66,2025-07-13,4,Estate Tour + Tasting,Reservation
+124,66,2025-08-18,2,Classic Tasting,Walk-in
+125,67,2025-04-30,6,Classic Tasting,Walk-in
+126,67,2025-06-13,4,Estate Tour + Tasting,Reservation
+127,67,2025-06-14,2,Reserve Tasting,Walk-in
+128,67,2025-10-22,2,Reserve Tasting,Reservation
+129,67,2025-10-23,3,Reserve Tasting,Walk-in
+130,68,2025-04-15,2,Classic Tasting,Reservation
+131,69,2025-10-14,5,Classic Tasting,Reservation
+132,70,2025-05-03,3,Estate Tour + Tasting,Reservation
+133,71,2025-04-15,5,Classic Tasting,Reservation
+134,71,2025-06-13,2,Reserve Tasting,Reservation
+135,72,2025-09-08,2,Reserve Tasting,Walk-in
+136,73,2025-01-31,2,Reserve Tasting,Walk-in
+137,73,2025-04-05,4,Estate Tour + Tasting,Reservation
+138,74,2025-01-31,3,Reserve Tasting,Reservation
+139,74,2025-07-11,3,Classic Tasting,Walk-in
+140,75,2025-04-09,4,Classic Tasting,Reservation
+141,76,2025-04-26,4,Reserve Tasting,Walk-in
+142,76,2025-05-05,5,Reserve Tasting,Reservation
+143,76,2025-06-03,3,Wine Club Tasting,Reservation
+144,76,2025-08-24,2,Estate Tour + Tasting,Reservation
+145,77,2025-05-04,2,Reserve Tasting,Reservation
+146,78,2025-07-23,4,Wine Club Tasting,Reservation
+147,79,2025-07-14,4,Classic Tasting,Reservation
+148,80,2025-02-24,2,Classic Tasting,Walk-in
+149,80,2025-03-20,2,Classic Tasting,Reservation
+150,80,2025-06-12,3,Classic Tasting,Reservation
+151,81,2025-03-28,2,Classic Tasting,Reservation
+152,81,2025-05-05,2,Classic Tasting,Reservation
+153,81,2025-07-14,6,Classic Tasting,Reservation
+154,81,2025-09-24,2,Estate Tour + Tasting,Walk-in
+155,82,2025-05-05,2,Classic Tasting,Walk-in
+156,82,2025-06-16,2,Estate Tour + Tasting,Walk-in
+157,83,2025-02-07,6,Classic Tasting,Reservation
+158,83,2025-08-18,4,Classic Tasting,Reservation
+159,83,2025-09-03,4,Reserve Tasting,Reservation
+160,84,2025-04-24,4,Reserve Tasting,Reservation
+161,84,2025-07-11,2,Wine Club Tasting,Reservation
+162,85,2025-02-04,2,Classic Tasting,Walk-in
+163,85,2025-06-13,3,Classic Tasting,Reservation
+164,86,2025-01-03,4,Classic Tasting,Reservation
+165,86,2025-07-19,3,Classic Tasting,Reservation
+166,86,2025-08-08,2,Classic Tasting,Reservation
+167,86,2025-08-19,2,Classic Tasting,Reservation
+168,87,2025-01-05,6,Classic Tasting,Walk-in
+169,87,2025-01-28,4,Classic Tasting,Reservation
+170,88,2025-08-23,2,Reserve Tasting,Reservation
+171,89,2025-01-17,4,Classic Tasting,Reservation
+172,89,2025-05-07,2,Classic Tasting,Reservation
+173,90,2025-02-18,2,Classic Tasting,Walk-in
+174,90,2025-05-17,4,Classic Tasting,Reservation
+175,90,2025-05-29,2,Classic Tasting,Reservation
+176,90,2025-05-30,4,Classic Tasting,Walk-in
+177,90,2025-09-21,3,Estate Tour + Tasting,Walk-in
+178,91,2025-05-18,5,Reserve Tasting,Reservation
+179,91,2025-05-26,3,Wine Club Tasting,Reservation
+180,91,2025-06-15,2,Classic Tasting,Walk-in
+181,92,2025-02-09,2,Reserve Tasting,Reservation
+182,93,2025-03-03,2,Classic Tasting,Reservation
+183,94,2025-03-10,3,Wine Club Tasting,Reservation
+184,95,2025-04-20,4,Estate Tour + Tasting,Walk-in
+185,95,2025-06-29,2,Classic Tasting,Walk-in
+186,96,2025-01-14,3,Estate Tour + Tasting,Reservation
+187,97,2025-01-28,3,Reserve Tasting,Reservation
+188,98,2025-07-07,6,Classic Tasting,Reservation
+189,98,2025-08-04,2,Reserve Tasting,Reservation
+190,98,2025-10-07,4,Reserve Tasting,Reservation
+191,99,2025-01-30,2,Classic Tasting,Reservation
+192,99,2025-02-14,4,Reserve Tasting,Walk-in
+193,99,2025-03-01,2,Classic Tasting,Walk-in
+194,100,2025-02-09,3,Classic Tasting,Reservation
+195,100,2025-08-22,4,Reserve Tasting,Reservation
+196,101,2025-01-07,6,Classic Tasting,Reservation
+197,101,2025-01-24,2,Reserve Tasting,Reservation
+198,101,2025-05-06,5,Classic Tasting,Reservation
+199,102,2025-05-05,6,Classic Tasting,Walk-in
+200,102,2025-06-05,5,Classic Tasting,Walk-in
+201,103,2025-01-23,3,Wine Club Tasting,Walk-in
+202,104,2025-02-01,2,Classic Tasting,Walk-in
+203,105,2025-03-11,2,Classic Tasting,Reservation
+204,106,2025-05-16,4,Estate Tour + Tasting,Reservation
+205,107,2025-07-02,4,Classic Tasting,Reservation
+206,108,2025-02-18,2,Classic Tasting,Walk-in
+207,108,2025-05-08,2,Estate Tour + Tasting,Reservation
+208,108,2025-08-20,5,Classic Tasting,Reservation
+209,108,2025-08-25,3,Classic Tasting,Walk-in
+210,109,2025-01-18,3,Reserve Tasting,Reservation
+211,109,2025-03-18,2,Reserve Tasting,Walk-in
+212,110,2025-01-14,4,Reserve Tasting,Reservation
+213,111,2025-05-04,4,Reserve Tasting,Walk-in
+214,112,2025-01-15,2,Classic Tasting,Reservation
+215,112,2025-07-03,2,Reserve Tasting,Walk-in
+216,112,2025-10-30,2,Estate Tour + Tasting,Walk-in
+217,113,2025-02-26,6,Wine Club Tasting,Reservation
+218,113,2025-03-14,2,Wine Club Tasting,Walk-in
+219,114,2025-03-31,2,Classic Tasting,Walk-in
+220,114,2025-04-25,3,Classic Tasting,Reservation
+221,114,2025-07-02,6,Classic Tasting,Reservation
+222,114,2025-10-29,6,Estate Tour + Tasting,Reservation
+223,115,2025-02-15,4,Classic Tasting,Reservation
+224,115,2025-06-21,2,Classic Tasting,Walk-in
+225,115,2025-08-17,2,Classic Tasting,Reservation
+226,115,2025-11-24,4,Reserve Tasting,Reservation
+227,116,2025-05-16,2,Reserve Tasting,Reservation
+228,117,2025-11-04,2,Reserve Tasting,Reservation
+229,118,2025-04-05,2,Classic Tasting,Reservation
+230,118,2025-07-09,6,Classic Tasting,Reservation
+231,119,2025-05-01,4,Classic Tasting,Walk-in
+232,119,2025-06-03,2,Classic Tasting,Reservation
+233,119,2025-09-01,6,Classic Tasting,Walk-in
+234,120,2025-06-16,6,Estate Tour + Tasting,Reservation
+235,121,2025-02-27,3,Classic Tasting,Reservation
+236,121,2025-08-03,1,Reserve Tasting,Reservation
+237,122,2025-06-19,6,Classic Tasting,Walk-in
+238,123,2025-02-20,4,Classic Tasting,Walk-in
+239,123,2025-03-10,2,Reserve Tasting,Reservation
+240,123,2025-04-27,4,Estate Tour + Tasting,Reservation
+241,124,2025-01-26,4,Reserve Tasting,Reservation
+242,125,2025-06-29,2,Classic Tasting,Walk-in
+243,125,2025-08-31,6,Classic Tasting,Reservation
+244,126,2025-01-05,2,Classic Tasting,Walk-in
+245,126,2025-03-09,2,Estate Tour + Tasting,Reservation
+246,126,2025-08-31,2,Classic Tasting,Reservation
+247,127,2025-07-26,1,Classic Tasting,Reservation
+248,128,2025-04-08,3,Reserve Tasting,Reservation
+249,128,2025-06-25,4,Reserve Tasting,Walk-in
+250,128,2025-10-20,3,Classic Tasting,Reservation
+251,129,2025-10-25,5,Wine Club Tasting,Reservation
+252,130,2025-03-15,4,Estate Tour + Tasting,Reservation
+253,130,2025-04-03,2,Reserve Tasting,Reservation
+254,130,2025-06-11,4,Estate Tour + Tasting,Reservation
+255,130,2025-06-25,5,Estate Tour + Tasting,Walk-in
+256,130,2025-07-29,2,Reserve Tasting,Reservation
+257,131,2025-09-24,6,Classic Tasting,Walk-in
+258,132,2025-03-05,2,Reserve Tasting,Walk-in
+259,132,2025-03-28,2,Reserve Tasting,Reservation
+260,132,2025-07-07,4,Classic Tasting,Reservation
+261,133,2025-02-24,4,Reserve Tasting,Reservation
+262,133,2025-02-28,4,Classic Tasting,Reservation
+263,134,2025-04-29,5,Classic Tasting,Walk-in
+264,134,2025-05-16,5,Estate Tour + Tasting,Reservation
+265,134,2025-06-01,4,Wine Club Tasting,Reservation
+266,134,2025-08-22,3,Estate Tour + Tasting,Reservation
+267,135,2025-08-02,2,Estate Tour + Tasting,Reservation
+268,136,2025-01-24,3,Classic Tasting,Walk-in
+269,136,2025-02-02,2,Reserve Tasting,Reservation
+270,136,2025-05-14,2,Estate Tour + Tasting,Walk-in
+271,136,2025-06-10,2,Classic Tasting,Reservation
+272,137,2025-01-10,3,Classic Tasting,Reservation
+273,138,2025-11-06,2,Classic Tasting,Reservation
+274,139,2025-02-19,4,Classic Tasting,Reservation
+275,139,2025-02-28,2,Estate Tour + Tasting,Walk-in
+276,140,2025-04-08,6,Classic Tasting,Reservation
+277,141,2025-01-03,2,Estate Tour + Tasting,Reservation
+278,142,2025-05-08,6,Classic Tasting,Walk-in
+279,143,2025-06-03,2,Estate Tour + Tasting,Reservation
+280,143,2025-06-10,3,Classic Tasting,Reservation
+281,143,2025-09-20,1,Estate Tour + Tasting,Reservation
+282,143,2025-10-08,4,Reserve Tasting,Reservation
+283,144,2025-02-01,4,Reserve Tasting,Reservation
+284,145,2025-02-22,2,Estate Tour + Tasting,Reservation
+285,145,2025-04-25,1,Classic Tasting,Reservation
+286,145,2025-10-15,3,Reserve Tasting,Walk-in
+287,146,2025-03-03,2,Classic Tasting,Reservation
+288,147,2025-01-03,3,Classic Tasting,Walk-in
+289,147,2025-03-21,3,Classic Tasting,Reservation
+290,147,2025-06-19,2,Reserve Tasting,Reservation
+291,148,2025-01-21,2,Classic Tasting,Walk-in
+292,148,2025-05-05,2,Classic Tasting,Reservation
+293,148,2025-06-14,4,Classic Tasting,Walk-in
+294,148,2025-11-11,4,Classic Tasting,Reservation
+295,149,2025-04-27,2,Classic Tasting,Reservation
+296,149,2025-05-13,3,Reserve Tasting,Walk-in
+297,150,2025-02-14,1,Classic Tasting,Walk-in
+298,150,2025-05-25,4,Classic Tasting,Walk-in
+299,150,2025-06-04,5,Estate Tour + Tasting,Walk-in
+300,151,2025-04-18,3,Classic Tasting,Reservation
+301,152,2025-02-28,5,Classic Tasting,Walk-in
+302,153,2025-02-21,2,Classic Tasting,Reservation
+303,153,2025-03-07,1,Classic Tasting,Reservation
+304,153,2025-05-01,2,Classic Tasting,Reservation
+305,153,2025-07-02,5,Reserve Tasting,Walk-in
+306,154,2025-02-08,4,Estate Tour + Tasting,Walk-in
+307,154,2025-02-09,3,Reserve Tasting,Walk-in
+308,155,2025-01-06,4,Reserve Tasting,Walk-in
+309,156,2025-10-17,4,Estate Tour + Tasting,Reservation
+310,157,2025-07-04,1,Wine Club Tasting,Walk-in
+311,158,2025-05-15,2,Reserve Tasting,Reservation
+312,159,2025-06-26,5,Estate Tour + Tasting,Reservation
+313,160,2025-03-22,4,Reserve Tasting,Walk-in
+314,161,2025-01-12,2,Classic Tasting,Reservation
+315,161,2025-05-05,3,Classic Tasting,Walk-in
+316,162,2025-03-15,4,Reserve Tasting,Reservation
+317,162,2025-04-04,5,Classic Tasting,Reservation
+318,162,2025-10-26,3,Reserve Tasting,Walk-in
+319,163,2025-01-01,1,Reserve Tasting,Reservation
+320,163,2025-08-09,4,Classic Tasting,Reservation
+321,164,2025-07-29,4,Classic Tasting,Reservation
+322,165,2025-01-04,2,Classic Tasting,Walk-in
+323,165,2025-07-12,2,Classic Tasting,Reservation
+324,166,2025-09-05,3,Classic Tasting,Reservation
+325,167,2025-01-27,1,Classic Tasting,Walk-in
+326,167,2025-12-17,2,Classic Tasting,Walk-in
+327,168,2025-01-20,2,Reserve Tasting,Walk-in
+328,169,2025-01-06,4,Classic Tasting,Reservation
+329,169,2025-03-31,4,Reserve Tasting,Reservation
+330,169,2025-08-13,3,Classic Tasting,Reservation
+331,170,2025-04-26,2,Wine Club Tasting,Reservation
+332,171,2025-02-24,6,Classic Tasting,Reservation
+333,172,2025-01-15,4,Classic Tasting,Reservation
+334,172,2025-08-24,3,Estate Tour + Tasting,Reservation
+335,173,2025-04-22,6,Classic Tasting,Walk-in
+336,174,2025-04-16,4,Classic Tasting,Reservation
+337,174,2025-04-28,4,Classic Tasting,Walk-in
+338,174,2025-05-01,5,Classic Tasting,Walk-in
+339,175,2025-01-28,6,Reserve Tasting,Reservation
+340,175,2025-03-07,4,Classic Tasting,Walk-in
+341,175,2025-04-24,2,Reserve Tasting,Reservation
+342,175,2025-05-24,2,Classic Tasting,Walk-in
+343,176,2025-07-06,2,Estate Tour + Tasting,Reservation
+344,176,2025-07-10,2,Reserve Tasting,Reservation
+345,177,2025-01-05,6,Classic Tasting,Reservation
+346,178,2025-02-20,3,Classic Tasting,Walk-in
+347,178,2025-03-25,1,Wine Club Tasting,Reservation
+348,179,2025-04-12,4,Reserve Tasting,Reservation
+349,179,2025-10-22,2,Classic Tasting,Reservation
+350,179,2025-10-23,4,Estate Tour + Tasting,Reservation
+351,180,2025-05-19,6,Estate Tour + Tasting,Walk-in
+352,180,2025-07-22,2,Classic Tasting,Reservation

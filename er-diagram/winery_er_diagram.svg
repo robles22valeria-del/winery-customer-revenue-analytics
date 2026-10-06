@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<style>
+.box{fill:#fff7f8;stroke:#6b2f3a;stroke-width:2}.h{font:bold 18px Arial;fill:#4a1f28}.t{font:14px Arial;fill:#222}.rel{stroke:#7a7a7a;stroke-width:2;fill:none}.lab{font:bold 14px Arial;fill:#6b2f3a}
+</style>
+<rect width="1200" height="760" fill="white"/>
+<text x="40" y="38" font-family="Arial" font-size="26" font-weight="bold" fill="#4a1f28">Winery Customer &amp; Revenue Analytics - ER Diagram</text>
+<!-- boxes -->
+<g transform="translate(50,90)"><rect class="box" width="240" height="190" rx="8"/><text class="h" x="15" y="28">CUSTOMER</text><text class="t" x="15" y="55">PK customer_id</text><text class="t" x="15" y="78">first_name</text><text class="t" x="15" y="101">last_name</text><text class="t" x="15" y="124">email</text><text class="t" x="15" y="147">city, state</text><text class="t" x="15" y="170">age_group</text></g>
+<g transform="translate(390,90)"><rect class="box" width="240" height="190" rx="8"/><text class="h" x="15" y="28">VISIT</text><text class="t" x="15" y="55">PK visit_id</text><text class="t" x="15" y="78">FK customer_id</text><text class="t" x="15" y="101">visit_date</text><text class="t" x="15" y="124">party_size</text><text class="t" x="15" y="147">tasting_type</text><text class="t" x="15" y="170">reservation_type</text></g>
+<g transform="translate(730,90)"><rect class="box" width="240" height="190" rx="8"/><text class="h" x="15" y="28">TRANSACTION</text><text class="t" x="15" y="55">PK transaction_id</text><text class="t" x="15" y="78">FK visit_id</text><text class="t" x="15" y="101">transaction_date</text><text class="t" x="15" y="124">subtotal</text><text class="t" x="15" y="147">discount_amount</text><text class="t" x="15" y="170">total_amount</text></g>
+<g transform="translate(730,420)"><rect class="box" width="240" height="170" rx="8"/><text class="h" x="15" y="28">TRANSACTION_ITEM</text><text class="t" x="15" y="55">PK transaction_item_id</text><text class="t" x="15" y="78">FK transaction_id</text><text class="t" x="15" y="101">FK wine_id</text><text class="t" x="15" y="124">quantity</text><text class="t" x="15" y="147">unit_price</text></g>
+<g transform="translate(390,420)"><rect class="box" width="240" height="170" rx="8"/><text class="h" x="15" y="28">WINE</text><text class="t" x="15" y="55">PK wine_id</text><text class="t" x="15" y="78">wine_name</text><text class="t" x="15" y="101">varietal, vintage</text><text class="t" x="15" y="124">wine_type</text><text class="t" x="15" y="147">bottle_price</text></g>
+<g transform="translate(50,420)"><rect class="box" width="240" height="170" rx="8"/><text class="h" x="15" y="28">MEMBERSHIP</text><text class="t" x="15" y="55">PK membership_id</text><text class="t" x="15" y="78">FK customer_id</text><text class="t" x="15" y="101">membership_tier</text><text class="t" x="15" y="124">join_date</text><text class="t" x="15" y="147">membership_status</text></g>
+<!-- relationships -->
+<path class="rel" d="M290 185 L390 185"/><text class="lab" x="315" y="175">1</text><text class="lab" x="365" y="175">M</text>
+<path class="rel" d="M630 185 L730 185"/><text class="lab" x="655" y="175">1</text><text class="lab" x="705" y="175">M</text>
+<path class="rel" d="M850 280 L850 420"/><text class="lab" x="860" y="315">1</text><text class="lab" x="860" y="405">M</text>
+<path class="rel" d="M630 505 L730 505"/><text class="lab" x="655" y="495">1</text><text class="lab" x="705" y="495">M</text>
+<path class="rel" d="M170 280 L170 420"/><text class="lab" x="180" y="315">1</text><text class="lab" x="180" y="405">0..1</text>
+<text x="50" y="700" font-family="Arial" font-size="13" fill="#555">Fictional portfolio schema. TRANSACTION_ITEM resolves the many-to-many relationship between transactions and wines.</text>
+</svg>
